@@ -31,3 +31,6 @@ Scale everything up or down with mouse scroll (Brightness excluded).
 ## Requirements
 Rainmeter 4.3 or newer [https://www.rainmeter.net/](https://www.rainmeter.net/).
 [CoreTemp](https://www.alcpu.com/CoreTemp/) needed for CPU stats.
+
+## Usage
+Download and run [Campania_1.0.rmskin](https://github.com/CampaniaGuy/Campania-Rainmeter-Skin/blob/main/skin/Campania_1.0.rmskin)

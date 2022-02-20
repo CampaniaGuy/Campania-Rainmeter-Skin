@@ -4,8 +4,11 @@
 [Rainmeter](https://github.com/rainmeter/rainmeter) is a Desktop customization tool for Windows.
 This skin implements the following features:
 
+![Alt text](/doc/example2.gif?raw=true "Example Image")
+
 ### Colors
-- Adapt to desktop wallpaper with [Chameleon](https://github.com/socks-the-fox/Chameleon) colors support on every component of the skin.
+- [Chameleon](https://github.com/socks-the-fox/Chameleon) colors support on every component of the skin.
+- Adapt to desktop wallpaper, Bing Wallpaper support.
 
 ### Time and Date
 - 12h, horizontal layout.

@@ -5,7 +5,7 @@
 This skin implements the following features:
 
 ### Colors
-- Adapt to desktop wallpaper with [Chameleon](https://github.com/socks-the-fox/Chameleon)colors support on every component of the skin.
+- Adapt to desktop wallpaper with [Chameleon](https://github.com/socks-the-fox/Chameleon) colors support on every component of the skin.
 
 ### Time and Date
 - 12h, horizontal layout.

@@ -1,7 +1,7 @@
 # Rainmeter Skin: Campania
 
 <p align="center">
-   <a href="https://github.com/mpurses/Sonder/releases">
+   <a href="https://github.com/CampaniaGuy/Campania-Rainmeter-Skin/releases">
     <img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/CampaniaGuy/Campania-Rainmeter-Skin/total?color=green&logo=github&style=for-the-badge">
   </a>
 </p>

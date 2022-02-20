@@ -4,8 +4,7 @@
 [Rainmeter](https://github.com/rainmeter/rainmeter) is a Desktop customization tool for Windows.
 This skin implements the following features:
 
-![Alt text](/doc/example.png?raw=true "Example Image")
-/doc/example3.mov
+![Alt text](/doc/example4.gif?raw=true "Example Image")
 
 ### Colors
 - [Chameleon](https://github.com/socks-the-fox/Chameleon) colors support on every component of the skin.

@@ -11,9 +11,9 @@ This skin implements the following features:
 - 12h, horizontal layout.
 
 ### System measures
-- CPU model name, temperature and usage with graph.
-- RAM installed, used and free.
-- Brightness control with mouse scroll.
+- **CPU** model name, temperature and usage with graph.
+- **RAM** installed, used and free.
+- **Brightness** control with mouse scroll.
 
 ### Weather
 - Daily and 3 day weather forecast.

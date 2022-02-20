@@ -1,5 +1,11 @@
 # Rainmeter Skin: Campania
 
+<p align="center">
+   <a href="https://github.com/mpurses/Sonder/releases">
+    <img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/CampaniaGuy/Campania-Rainmeter-Skin/total?color=green&logo=github&style=for-the-badge">
+  </a>
+</p>
+
 ## Introduction
 [Rainmeter](https://github.com/rainmeter/rainmeter) is a Desktop customization tool for Windows.
 This skin implements the following features:
@@ -33,4 +39,4 @@ Rainmeter 4.3 or newer [https://www.rainmeter.net/](https://www.rainmeter.net/).
 [CoreTemp](https://www.alcpu.com/CoreTemp/) needed for CPU stats.
 
 ## Usage
-Download and run [Campania_1.0.rmskin](https://github.com/CampaniaGuy/Campania-Rainmeter-Skin/blob/main/skin/Campania_1.0.rmskin)
+Download and run [Campania skin](https://github.com/CampaniaGuy/Campania-Rainmeter-Skin/releases)
